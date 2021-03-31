@@ -26,3 +26,7 @@ btnSee.addEventListener('click', function(){
 	
 }
 });
+
+function scrollWin(x, y) {
+  window.scrollBy(x, y);
+}
